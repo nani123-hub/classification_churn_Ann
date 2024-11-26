@@ -1,4 +1,4 @@
-!pip install -r requirements.txt
+pip install -r requirements.txt
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 import pickle
