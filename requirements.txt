@@ -3,5 +3,6 @@ streamlit
 numpy
 pandas
 keras
-pickle
 sklearn
+pickle
+
