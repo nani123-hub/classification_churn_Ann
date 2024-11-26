@@ -3,6 +3,6 @@ streamlit
 numpy
 pandas
 keras
-sklearn
+scikit-learn
 pickle
 
