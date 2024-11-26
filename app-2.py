@@ -4,6 +4,7 @@ import pickle
 import numpy as np
 import pandas as pd
 import streamlit as st
+import sklearn
 
 model =load_model('model.h5')
 
